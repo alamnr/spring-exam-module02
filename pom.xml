@@ -67,5 +67,7 @@
     <module>module02-question03</module>
     <module>module02-question04</module>
     <module>module02-question05</module>
+    
+    <module>module02-question06</module>
   </modules>
 </project>
